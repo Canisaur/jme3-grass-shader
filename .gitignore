@@ -1,5 +1,6 @@
 build.xml
 build
+dist
 .svn
 */**/.svn
 *.so
