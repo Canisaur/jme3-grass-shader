@@ -1,0 +1,11 @@
+build.xml
+build
+.svn
+*/**/.svn
+*.so
+*.dll
+MANIFEST.MF
+master-application.jnlp
+nbproject
+test
+dist
