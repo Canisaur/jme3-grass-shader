@@ -1,0 +1,3 @@
+Simply create a jME3 project and include the shader files under assets/MatDefs.  You could theoretically use the .frag and .vert shader files for any application, but I haven't tried.
+
+I am not associated in any way with the developers of jMonkeyEngine, however, I think it's a fantastic engine: http://jmonkeyengine.org/
